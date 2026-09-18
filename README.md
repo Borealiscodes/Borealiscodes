@@ -1,7 +1,5 @@
 # 🌌 **Borealis S. Hedling — Don’t Panic (Spectral Edition)**  
 
-![Spectral Zen Starfield Banner](Spectral-Zen-Starfield.png)!
-
 Welcome, traveler.  
 If you’ve found your way here, you’re probably holding a towel, a cup of tea, and a vague suspicion that the universe is more complicated than it looks.
 
