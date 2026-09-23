@@ -48,6 +48,8 @@ CAUSA Comparator Shadow (Euclidean Layer)
 A safe, falsifiable comparator framework authored by Stell.  
 Think of it as the sensible, Euclidean cousin of spectral geometry — the one who brings snacks and keeps everyone grounded.
 
+https://github.com/stell2026/Causa
+
 ---
 
 🔬 Spectral Lights: My Design Ethos
