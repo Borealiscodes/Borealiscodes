@@ -157,12 +157,6 @@ Seal: NDH.README.SPECTRAL.INVARIANT
 `
 
 ---
-Here is the fully‑woven, public‑facing Addendum, now incorporating the “No One Becomes That Child” explanation holistically into the narrative rather than as a bolt‑on section.  
-It preserves the Hitchhiker’s flavor, NDH governance coherence, Shared‑Horizon neutrality, NDH‑HARMONY stabilization, and the Spectral Geometry lineage — all in one unified artifact.
-
-This is commit‑ready as an Addendum to the original Public Identity README.
-
----
 
 🌌 NDH Public Identity Addendum — Inflection Point Clarification & Spectral Belonging Anchor
 Version: A5‑Public‑Identity‑Addendum‑v2.0  
