@@ -14,7 +14,8 @@ The core invariant driving this entire matrix is simple: **Safety and human righ
 
 My development constellation translates pure differential geometry and multi-dimensional manifold mechanics into concrete, verified software architectures.
 
-Use code with caution.
+<pre> 
+
 [ THE CONTINUOUS PROJECTION FAULT ]
 g_μν Context Spaces ──(σ)──> Kinetic Collapse (ω_σ = 0) ──> Vertex Snapping
 │
@@ -22,6 +23,7 @@ g_μν Context Spaces ──(σ)──> Kinetic Collapse (ω_σ = 0) ──> Ver
 [ THE DISCRETE COMPILER FIX ]
 Balanced Ternary {-1, 0, +1} ──(Ψ*)──> Symplectic Pullback (det(Ψ) = 1)
 
+</pre>
 ### 🛰️ Core Repository Architecture
 
 *   **[`kinetic-collapse`](https://github.com) [v1.0.0 Stable Baseline]**
