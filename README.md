@@ -49,7 +49,7 @@ The core primitives within this constellation are dual-use, holding mathematical
 ---
 
 ## 🧮 Academic Registry & Lineage
-*   **Primary Publication DOI:** [10.5281/zenodo.23875014](https://doi.org)
+*   **Primary Publication DOI:** https://doi.org/10.5281/zenodo.23875014 
 *   **Upstream Affiliation:** Built in structural harmony with the 1.58-bit BitNet ternary transformer infrastructure developed by the 8B Project.
 
 *Don't Panic. Carry a towel, trust the exterior algebra, and keep the volume form conserved.* 🌸
