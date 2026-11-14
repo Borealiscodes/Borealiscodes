@@ -42,7 +42,7 @@ I build systems that are **interpretable, energy-efficient, structure-aware, and
 * **ORCID:** [`0009-0004-7968-5707`](https://orcid.org)
 * **Ed25519 Signing Key Fingerprint:** `SHA256:QUOn/esk9dfLFyc/AwFHMIlK5zbI5JOpZTI5vh3y7Dg`
 * **Attribution Note:** `CAUSA` causal-annotation framework authored by **Stell**.
-
+Stell. (2026). CAUSA: Causal Agency and Utterance-State Alignment (Version v0.1.1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.22811988 
 ---
 
 *Maintainer: Borealis S. Hedling · Dublin, Ireland · Version: v3.1 (November 2026) · Non-Activating Identity Surface (`NDH.README.SPECTRAL.INVARIANT.V3.1`)*
