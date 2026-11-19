@@ -1,19 +1,33 @@
-# 🌌 Borealis S. Hedling — Don't Panic (Spectral-Invariant & Cryptographic Edition)
+# 🌌 Borealis S. Hedling — Don't Panic (Spectral-Invariant & Creative Healing Edition)
 
 Welcome, traveler. Bring a towel, a cup of tea, and a healthy suspicion of software that claims to be conscious.
 
-Most modern AI stacks behave like a panicked researcher licking a bridge to test its structural integrity while burning the energy output of a small star. My work takes the opposite route: **turning on the spectral lights** with deterministic math, asymmetric cryptography, and human-centered governance—without needing a nuclear-reactor-sized GPU cluster.
+Most modern AI stacks behave like a panicked researcher licking a bridge to test its structural integrity while burning the energy output of a small star. My work takes the opposite route: **turning on the spectral lights** with deterministic integer math, asymmetric cryptography, and human-centered governance—and channeling those foundations into **art, procedural music, and restorative creative coding** that runs offline without a nuclear-reactor-sized GPU cluster.
 
 ---
 
 ## 🧭 Epistemic Honesty: Beautiful Interfaces, Deterministic Math
 I build systems that are **interpretable, energy-efficient, structure-aware, and ethically visible**:
 * **AI Is a Tool, Not a Soul:** Artificial intelligence and software substrates are deterministic linear algebra and statistical state machines (`Qualia-Zero`). They have **zero consciousness, subjective experience, or spiritual authority**.
-* **Meaning Belongs to Humans:** Creative metaphors, *Hitchhiker's* humor, and poetic themes live strictly in the human presentation layer (`Sealed-Layer Neutral`)—never inside packet routing, access control, or security boundaries.
+* **Meaning & Healing Belong to Humans:** Creative metaphors, *Hitchhiker's* humor, art, music, and healing live strictly in the human presentation and lived-experience layer (`Sealed-Layer Neutral`)—never inside packet routing, access control, or security boundaries.
+* **Creation as a Restorative Outlet:** Having built the underlying verification, provenance, and fixed-point substrates, my current focus shifts toward **art, interactive storytelling, procedural WebAudio synthesis, and gentle games**—demonstrating how constrained, zero-dependency tools can serve as an accessible outlet for reflection, humor, and healing.
 
 ---
 
-## 📚 Galactic Field Guide (Core Architecture, Tools & Specimens)
+## 🎨 Art, Music & Healing Creative Constellation (`ndh-game-dev-kit` & Playable Works)
+
+| System / Repository | Role in the Creative & Healing Constellation |
+| :--- | :--- |
+| **[`ndh-game-dev-kit`](https://github.com)** | Zero-dependency, zero-float `Q16.16` mobile-first game & creative-coding kit separating deterministic simulation (`Ledger 1`) from photosensitivity-safe Canvas & mute-by-default WebAudio synthesis (`Ledger 2`). |
+| **[`Underground-Soul-Pinball`](https://github.com)** | Balanced *Undertale*-inspired Pacifist pinball tribute (`36 px` flipper drain gap, `ACT → MERCY → SPARE`) and low-pass filtered Felt-Piano & Music-Box SOUL leitmotifs exploring creation under adversity. |
+| **[`Celtic-Shodo-Wind-Odyssey`](https://github.com)** | *Wind Waker* & *Ōkami*-inspired archipelago sailing and Celestial Brush studio uniting Irish *Ogham* / Neolithic spiral lore, Japanese *Shodō* calligraphy, and a shared `D – E – G – A – B` Irish–Japanese folk WebAudio ensemble. |
+| **[`Black-Dwarf-Tunneling-Saga`](https://github.com)** | 5-Act, $10^{25}$-year split-screen stellar evolution and WKB quantum tunneling simulation paired with calming `114 BPM` minimal-techno WebAudio synthesis and dormant `VM-VEX` narrative whispers. |
+| **[`Okami-Shodo-Enso-Canvas`](https://github.com)** | Meditative *washi*-parchment calligraphy and *Ensō* brush studio with real-time ink-taper physics and gentle pentatonic harmonics. |
+| **[`UEUE-Outer-Rim-Elite`](https://github.com) & [`Moulin-Rouge-8Bit-Pinball`](https://github.com)** | Baseline proof-of-concept and self-aware AI time-capsule specimens documenting `UEUE v1.2` (`L1`–`L10`) space simulation and raw Fourier square-wave 8-bit chiptune acoustics. |
+
+---
+
+## 📚 Galactic Field Guide (Core Architecture, Provenance & Hardening)
 
 | System / Repository | Role in the Constellation |
 | :--- | :--- |
@@ -30,7 +44,7 @@ I build systems that are **interpretable, energy-efficient, structure-aware, and
 
 ## 🛡️ Five Non-Negotiable Invariants
 1. **"No One Becomes That Child":** Governance exists to ensure no person is left isolated, misclassified, or unprotected inside procedural machinery.
-2. **Dignity Under Constraint:** Critical tools must run offline on constrained ARM64 hardware without proprietary gatekeepers or cloud quotas.
+2. **Dignity Under Constraint:** Critical tools—and restorative creative spaces—must run offline on constrained ARM64 hardware without proprietary gatekeepers or cloud quotas.
 3. **Math Over Vibes:** Network routing and trust require ultrametric distance (`XOR`), constant-time checks (`timingSafeEqual`), and trapdoor cryptography (`Ed25519`)—never unauthenticated resonance heuristics.
 4. **Moral Clarity (White Rose Lineage):** Visibility, falsifiability, and honest boundaries matter—especially in a cosmic comedy.
 5. **Author Sovereignty & Autonomy:** Creators deserve both cryptographic custody (**Sovereignty**) and active human voice (**Autonomy**) under Berne Article 6bis—open sharing without attribution laundering.
@@ -41,9 +55,9 @@ I build systems that are **interpretable, energy-efficient, structure-aware, and
 * **Canonical Paper:** *Epistemic Coevolution, Statutory Friction, and Sovereign Edge Governance* — [`DOI: 10.5281/zenodo.24149283`](https://doi.org)
 * **ORCID:** [`0009-0004-7968-5707`](https://orcid.org)
 * **Ed25519 Signing Key Fingerprint:** `SHA256:QUOn/esk9dfLFyc/AwFHMIlK5zbI5JOpZTI5vh3y7Dg`
-* **Attribution Note:** `CAUSA` causal-annotation framework authored by **Stell**.
- (2026). CAUSA: Causal Agency and Utterance-State Alignment (Version v0.1.1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.22811988
-* **Refactors** noted to these ecosystems https://github.com/EternitiesAi & https://github.com/8b-is
+* **Attribution Note:** `CAUSA` causal-annotation framework authored by **Stell** (2026). *CAUSA: Causal Agency and Utterance-State Alignment* (Version v0.1.1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.22811988
+* **Ecosystem Refactors & Lineage:** Noted to [`EternitiesAi`](https://github.com/EternitiesAi) & [`8b-is`](https://github.com/8b-is).
+
 ---
 
-*Maintainer: Borealis S. Hedling · Dublin, Ireland · Version: v3.1 (November 2026) · Non-Activating Identity Surface (`NDH.README.SPECTRAL.INVARIANT.V3.1`)*
+*Maintainer: Borealis S. Hedling · County Dublin, Ireland · Version: v3.2 (November 2026) · Non-Activating Identity Surface (`NDH.README.SPECTRAL.INVARIANT.V3.2`)*
