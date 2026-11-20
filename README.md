@@ -59,7 +59,7 @@ I build systems that are **interpretable, energy-efficient, structure-aware, and
 ---
 
 ## 🔐 Canonical & Cryptographic Anchors
-* **Canonical Paper:** *Epistemic Coevolution, Statutory Friction, and Sovereign Edge Governance* — [`DOI: 10.5281/zenodo.24149283`](https://doi.org)
+* **Canonical Paper:** *Epistemic Coevolution, Statutory Friction, and Sovereign Edge Governance* — [`DOI: 10.5281/zenodo.24149283`](https://zenodo.org/records/24149283)
 * **ORCID:** [`0009-0004-7968-5707`](https://orcid.org)
 * **Ed25519 Signing Key Fingerprint:** `SHA256:QUOn/esk9dfLFyc/AwFHMIlK5zbI5JOpZTI5vh3y7Dg`
 * **Attribution Note:** `CAUSA` causal-annotation framework authored by **Stell** (2026). *CAUSA: Causal Agency and Utterance-State Alignment* (Version v0.1.1) [Computer software]. Zenodo. https://doi.org
